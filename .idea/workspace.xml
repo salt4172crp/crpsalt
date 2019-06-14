@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad7a8a89-5d8e-49f8-a2c4-53147f0eee14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/crpower/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/crpower/ContinueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/crpower/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/crpower/ArrayTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/crpower/ArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="297">
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -236,7 +235,7 @@
       <workItem from="1559812314928" duration="2382000" />
       <workItem from="1560138390111" duration="1835000" />
       <workItem from="1560415364289" duration="634000" />
-      <workItem from="1560480022784" duration="15087000" />
+      <workItem from="1560480022784" duration="15224000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1560499038562</created>
@@ -259,11 +258,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560499732444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="with foreach loop,forget to initial element with type">
+      <created>1560502119941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560502119941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27621000" />
+    <option name="totallyTimeSpent" value="27758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -307,7 +313,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="v1.0" />
     <MESSAGE value="add break function" />
-    <option name="LAST_COMMIT_MESSAGE" value="add break function" />
+    <MESSAGE value="with foreach loop,forget to initial element with type" />
+    <option name="LAST_COMMIT_MESSAGE" value="with foreach loop,forget to initial element with type" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -344,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/crpower/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="297">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
